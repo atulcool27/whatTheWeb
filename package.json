@@ -25,7 +25,7 @@
 		"uuid": "^9.0.0"
 	},
 	"devDependencies": {
-		"@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
+		"@adiwajshing/eslint-config": "https://github.com/adiwajshing/eslint-config.git",
 		"@types/node": "^16.18.69",
 		"@typescript-eslint/eslint-plugin": "^6.18.0",
 		"@typescript-eslint/parser": "^6.18.0",
