@@ -19,7 +19,7 @@
 		"url": "git@github.com/bobslavtriev/mysql-baileys.git"
 	},
 	"dependencies": {
-		"@whiskeysockets/baileys": "https://github.com/WhiskeySockets/Baileys.git",
+		"@whiskeysockets/baileys": "https://github.com/atulcool27/whatTheWebMain/blob/master/package.json",
 		"libsignal": "https://github.com/WhiskeySockets/libsignal-node.git",
 		"mysql2": "^3.3.5",
 		"uuid": "^9.0.0"
